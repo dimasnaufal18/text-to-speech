@@ -314,6 +314,7 @@ Untuk perubahan besar, disarankan membuka issue terlebih dahulu agar perubahan d
 **Mhd Dimas Naufal**
 
 - GitHub: [@dimasnaufal18](https://github.com/dimasnaufal18)
+- Live Demo: https://text-to-speech-web-mu.vercel.app
 
 ---
 
